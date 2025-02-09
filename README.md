@@ -54,10 +54,13 @@ The **AI-Powered Financial Portfolio Dashboard** helps users:
 ### Prerequisites  
 - Node.js installed  
 - API Keys for **Alpha Vantage** & **CoinGecko**
-  🤝 Contributors
+
+## 🤝 Contributors
 [Shiyanthan] - Developer
+
 [Stackbliz ide ai bot ]
-📜 License
+
+## 📜 License
 This project is open-source and available under the MIT License.
 
 
