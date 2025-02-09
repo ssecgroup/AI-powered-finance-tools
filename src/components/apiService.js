@@ -1,5 +1,5 @@
 export const fetchStockPrice = async (symbol) => {
-  const API_KEY = 'HDX99876yyyuW3WA'; // Your Alpha Vantage Key
+  const API_KEY = 'HDX99876yyyu'; // Your Alpha Vantage Key
   const url = `https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=${symbol}&interval=5min&apikey=${API_KEY}`;
 
   try {
