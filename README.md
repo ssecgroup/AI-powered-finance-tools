@@ -53,16 +53,8 @@ The **AI-Powered Financial Portfolio Dashboard** helps users:
 ## 📂 Project Setup  
 ### Prerequisites  
 - Node.js installed  
-- API Keys for **Alpha Vantage** & **CoinGecko**  
-
-### Installation  
-```bash
-git clone https://github.com/ssecgroup/AI-powered-finance-tools.git
-cd ai-financial-dashboard
-npm install
-
-
-🤝 Contributors
+- API Keys for **Alpha Vantage** & **CoinGecko**
+  🤝 Contributors
 [Shiyanthan] - Developer
 [Stackbliz ide ai bot ]
 📜 License
@@ -72,3 +64,12 @@ This project is open-source and available under the MIT License.
 # AI-powered-finance-tools
 
 [click  editor ⚡️](https://stackblitz.com/~/github.com/ssecgroup/AI-powered-finance-tools)
+
+
+### Installation  
+```bash
+git clone https://github.com/ssecgroup/AI-powered-finance-tools.git
+cd ai-financial-dashboard
+npm install
+
+
